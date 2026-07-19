@@ -1,0 +1,20 @@
+# DamageScope AI
+
+# Python Dependencies
+
+#
+
+# OpenAI Build Week 2026 Contest Build
+
+#
+
+# NOTE:
+
+# This file will be updated with the verified dependencies
+
+# from the final contest build before submission.
+
+openai
+Pillow
+
+# Additional verified dependencies will be added here.
