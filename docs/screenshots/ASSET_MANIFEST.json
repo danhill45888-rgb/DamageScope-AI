@@ -1,0 +1,72 @@
+[
+  {
+    "path": "README_UPLOAD_INSTRUCTIONS.txt",
+    "size_bytes": 269,
+    "sha256": "e1ffe3b2fc839b009af3fa8d6a62a871595d08ddb41647363bc4ecf2d65d5aae"
+  },
+  {
+    "path": "docs/screenshots/annotated/ai-analysis-progress.png",
+    "size_bytes": 2715061,
+    "sha256": "a28924491381157a524d34ea934e15fef980867403d7ff0fcea9b3a7e53169e5"
+  },
+  {
+    "path": "docs/screenshots/annotated/custom-annotation.png",
+    "size_bytes": 3024153,
+    "sha256": "163da32a4665000ee9346ea8d6f75e32aa67bd47fa49441df21b10b5fd7159b9"
+  },
+  {
+    "path": "docs/screenshots/annotated/customer-information.png",
+    "size_bytes": 2156708,
+    "sha256": "df674fe9e7f3f8f377a36dc095ac24f1f1575f5cc227d0f89610acad52b3caea"
+  },
+  {
+    "path": "docs/screenshots/annotated/dashboard.png",
+    "size_bytes": 2231743,
+    "sha256": "68c0ab96abe9bd903ba793f28d5c4d27dd3fb1cc6d74caca59c092be9d4e034f"
+  },
+  {
+    "path": "docs/screenshots/annotated/inspection-session-blank.png",
+    "size_bytes": 2149789,
+    "sha256": "bfa60bae8be78e9c2f68754727e9ebf51972a019a3a99bbffe486bebdea14414"
+  },
+  {
+    "path": "docs/screenshots/annotated/new-inspection-completed.png",
+    "size_bytes": 2134390,
+    "sha256": "407d50a9950c184b3a83ecb869f62c053a63c7ddf0fee3fcd4fb10ef3528a891"
+  },
+  {
+    "path": "docs/screenshots/evidence-grid.png",
+    "size_bytes": 353657,
+    "sha256": "8a595b037528201e5961c7588ece94fbc922edd65091102c4b22d91c28d24bd7"
+  },
+  {
+    "path": "docs/screenshots/evidence-reasoning.png",
+    "size_bytes": 2628135,
+    "sha256": "8b88ce201710d14eeed3ed279314a53eb3f95a0bf0a36434325ca83e908fc78a"
+  },
+  {
+    "path": "docs/screenshots/expert-correction.png",
+    "size_bytes": 2785621,
+    "sha256": "fc1d230a38657b015c25d12da604255d354c831bbe555321dd17582935f62509"
+  },
+  {
+    "path": "docs/screenshots/forensic-finding.png",
+    "size_bytes": 767235,
+    "sha256": "cc59b1440f273d5556a6dccb9fa109f2cad0a57f1f0acada8c94931f964660c9"
+  },
+  {
+    "path": "docs/screenshots/generated-report.png",
+    "size_bytes": 1014011,
+    "sha256": "246efd2d1ff8dc14eaf825ea42a47071c3d1d7ec5166e232843595a7e4d87afa"
+  },
+  {
+    "path": "docs/screenshots/main-interface.png",
+    "size_bytes": 2458053,
+    "sha256": "acaf6aa0118b58064e0315a24022ea50bd3a244437b05734ac6407aeeee99a86"
+  },
+  {
+    "path": "reports/sample-report.pdf",
+    "size_bytes": 6485899,
+    "sha256": "212db4b57244236835eabe1e83458c4020799dec1c46fe6eefc7daef0191c6ca"
+  }
+]
